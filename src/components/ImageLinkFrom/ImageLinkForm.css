@@ -1,0 +1,31 @@
+/* .form {
+    background-color: #493382;
+} */
+
+.input {
+    border: solid 2px rgba(255, 255, 255, 0.15);
+    border-top-left-radius: 0.25em;
+    border-bottom-left-radius: 0.25em;
+    background-color: #7861b9;
+    outline: none;
+    color: rgba(255, 255, 255, 0.55);
+    font-weight: bold;
+}
+
+input:focus {
+    box-shadow: 0 0 1px 1px white; 
+}
+
+.button {
+    border: solid 2px rgba(255, 255, 255, 0.15);
+    background-color: #5E42A6;
+    color: white;
+    border-top-right-radius: 0.25em;
+    border-bottom-right-radius: 0.25em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background-color: #664CAB; 
+}

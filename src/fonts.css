@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Fa';
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+	font-named-instance: 'Regular';
+	src: url("fonts/fa-regular-400.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Fa';
+	font-weight: 700;
+	font-display: swap;
+	font-style: normal;
+	font-named-instance: 'Bold';
+	src: url("fonts/fa-solid-900.eot") format("eot");
+}
