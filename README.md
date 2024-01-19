@@ -1,5 +1,6 @@
 #Face Recognition App
 
+
 Face Recognition App (~work in progress) is a web application developed within the Ztm (Zero to Mastery) - The Complete Front-End Web Development Course. It utilizes the Clarifai API to detect faces in images and incorporates the following technologies:
     -	React JS, Node JS, Express JS
     -	PostgreSQL, Postman
